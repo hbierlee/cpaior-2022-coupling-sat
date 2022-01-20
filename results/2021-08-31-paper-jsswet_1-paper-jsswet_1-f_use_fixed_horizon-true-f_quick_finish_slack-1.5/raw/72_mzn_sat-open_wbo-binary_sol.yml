@@ -1,0 +1,3 @@
+- {configuration: mzn_sat-open_wbo-binary, data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jobshop_wet_by_1/jobshop_swv14.dzn,
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jsswet.mzn,
+  problem: jsswet, status: UNKNOWN, time: 634.85}

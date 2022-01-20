@@ -1,0 +1,44 @@
+- configuration: "mzn_sat-open_wbo-mixed-{'f_SAT_fzn_disjunctive_order_alternative':\
+    \ True, 'f_slack_channel': 'EQUALITY'}"
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jobshop_wet_by_1/jobshop_la04.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jsswet.mzn
+  problem: jsswet
+  solution:
+    objective: 205
+    x:
+    - [0, 12, 106, 198, 289]
+    - [0, 19, 30, 96, 117]
+    - [0, 14, 89, 102, 118]
+    - [0, 95, 161, 168, 175]
+    - [0, 45, 51, 140, 155]
+    - [0, 77, 97, 173, 261]
+    - [0, 74, 162, 214, 241]
+    - [0, 88, 157, 219, 317]
+    - [0, 61, 70, 132, 184]
+    - [0, 54, 59, 118, 133]
+  status: SATISFIED
+  time: 10.13
+- configuration: "mzn_sat-open_wbo-mixed-{'f_SAT_fzn_disjunctive_order_alternative':\
+    \ True, 'f_slack_channel': 'EQUALITY'}"
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jobshop_wet_by_1/jobshop_la04.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jsswet.mzn
+  problem: jsswet
+  solution:
+    objective: 205
+    x:
+    - [0, 12, 125, 253, 653]
+    - [0, 19, 30, 167, 640]
+    - [98, 115, 402, 415, 624]
+    - [199, 344, 425, 440, 576]
+    - [19, 67, 96, 235, 590]
+    - [217, 294, 338, 448, 660]
+    - [314, 402, 495, 608, 660]
+    - [162, 324, 432, 536, 644]
+    - [106, 209, 276, 350, 506]
+    - [388, 442, 447, 526, 552]
+  status: SATISFIED
+  time: 10.18
+- {configuration: "mzn_sat-open_wbo-mixed-{'f_SAT_fzn_disjunctive_order_alternative':\
+    \ True, 'f_slack_channel': 'EQUALITY'}", data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jobshop_wet_by_1/jobshop_la04.dzn,
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jsswet.mzn,
+  problem: jsswet, status: OPTIMAL_SOLUTION, time: 10.39}

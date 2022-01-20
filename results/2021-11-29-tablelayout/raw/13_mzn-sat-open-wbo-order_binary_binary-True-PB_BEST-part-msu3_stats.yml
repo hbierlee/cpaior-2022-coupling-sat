@@ -1,0 +1,23 @@
+bimanderCount: 0
+bimanderTotalAbsoluteBalance: 0
+bimanderTotalM: 0
+bimanderTotalN: 0
+bimanderTotalOffset: 0
+configuration: mzn-sat-open-wbo-order_binary_binary-True-PB_BEST-part-msu3
+data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1000-1479-line419.dzn
+error: Unknown message kind ASCII `E'
+evaluatedHalfReifiedConstraints: 90
+flatBoolConstraints: 1641
+flatBoolVars: 712
+flatIntConstraints: 685
+flatIntVars: 686
+flatTime: 0.990336
+method: minimize
+model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+nClauseVariables: 9540
+nClauses: 2807
+nVariables: 1073
+paths: 0
+problem: tablelayout
+processFlatZincTime: 0.0083
+status: ERROR

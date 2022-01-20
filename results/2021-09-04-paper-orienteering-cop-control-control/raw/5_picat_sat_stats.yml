@@ -1,0 +1,15 @@
+configuration: picat_sat
+data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_medium_1.dzn
+evaluatedReifiedConstraints: 28
+flatBoolVars: 28
+flatIntConstraints: 89
+flatIntVars: 88
+flatTime: 0.046939
+method: maximize
+model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering-control.mzn
+nSolutions: 6
+objective: 1481
+paths: 0
+problem: orienteering
+status: OPTIMAL_SOLUTION
+time: 60.69752227002755

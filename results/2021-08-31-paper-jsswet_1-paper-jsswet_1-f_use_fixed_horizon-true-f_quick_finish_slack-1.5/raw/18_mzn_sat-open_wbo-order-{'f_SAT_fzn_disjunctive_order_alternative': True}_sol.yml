@@ -1,0 +1,54 @@
+- configuration: "mzn_sat-open_wbo-order-{'f_SAT_fzn_disjunctive_order_alternative':\
+    \ True}"
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jobshop_wet_by_1/jobshop_la10.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jsswet.mzn
+  problem: jsswet
+  solution:
+    objective: 92
+    x:
+    - [0, 260, 102, 107, 116]
+    - [0, 89, 186, 282, 359]
+    - [0, 77, 164, 245, 284]
+    - [0, 57, 78, 109, 124]
+    - [0, 48, 88, 137, 207]
+    - [0, 34, 116, 196, 206]
+    - [0, 91, 166, 221, 238]
+    - [0, 62, 109, 181, 216]
+    - [0, 64, 139, 189, 279]
+    - [0, 67, 87, 102, 114]
+    - [0, 52, 145, 213, 242]
+    - [0, 70, 128, 221, 228]
+    - [0, 27, 109, 172, 178]
+    - [0, 87, 143, 179, 205]
+    - [0, 76, 112, 148, 163]
+  status: SATISFIED
+  time: 43.56
+- configuration: "mzn_sat-open_wbo-order-{'f_SAT_fzn_disjunctive_order_alternative':\
+    \ True}"
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jobshop_wet_by_1/jobshop_la10.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jsswet.mzn
+  problem: jsswet
+  solution:
+    objective: 92
+    x:
+    - [469, 527, 581, 586, 612]
+    - [4, 230, 378, 474, 1050]
+    - [493, 605, 692, 778, 817]
+    - [704, 940, 961, 1069, 1090]
+    - [70, 138, 269, 332, 870]
+    - [204, 245, 345, 425, 435]
+    - [178, 702, 889, 944, 973]
+    - [594, 656, 703, 835, 963]
+    - [73, 253, 961, 1038, 1134]
+    - [1, 195, 407, 458, 528]
+    - [178, 482, 586, 914, 981]
+    - [146, 668, 775, 948, 1084]
+    - [551, 773, 868, 955, 1090]
+    - [318, 425, 576, 808, 988]
+    - [66, 271, 327, 363, 427]
+  status: SATISFIED
+  time: 43.68
+- {configuration: "mzn_sat-open_wbo-order-{'f_SAT_fzn_disjunctive_order_alternative':\
+    \ True}", data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jobshop_wet_by_1/jobshop_la10.dzn,
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jsswet.mzn,
+  problem: jsswet, status: OPTIMAL_SOLUTION, time: 44.29}

@@ -1,0 +1,12 @@
+configuration: picat_sat-dump
+data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1407-line976.dzn
+flatIntConstraints: 338
+flatIntVars: 358
+flatTime: 0.083428
+method: minimize
+model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+nSolutions: 0
+paths: 0
+problem: tablelayout
+status: UNKNOWN
+time: 0.1759756999090314

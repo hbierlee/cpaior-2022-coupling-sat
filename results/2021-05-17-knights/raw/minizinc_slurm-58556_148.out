@@ -1,0 +1,29 @@
+DEBUG:minizinc:CLIDriver:run -> command: "/home/hbierlee/Projects/libminizinc/release/minizinc --allow-multiple-assignments --version", timeout None
+DEBUG:minizinc:CLIDriver:run -> command: "/home/hbierlee/Projects/libminizinc/release/minizinc --allow-multiple-assignments --solvers-json", timeout None
+DEBUG:minizinc:CLIDriver:run -> command: "/home/hbierlee/Projects/libminizinc/release/minizinc --allow-multiple-assignments --solvers-json", timeout None
+DEBUG:minizinc:CLIDriver:run -> command: "/home/hbierlee/Projects/libminizinc/release/minizinc --allow-multiple-assignments --solvers-json", timeout None
+DEBUG:minizinc:CLIDriver:run -> command: "/home/hbierlee/Projects/libminizinc/release/minizinc --allow-multiple-assignments --solvers-json", timeout None
+DEBUG:minizinc:CLIDriver:run -> command: "/home/hbierlee/Projects/libminizinc/release/minizinc --allow-multiple-assignments --solvers-json", timeout None
+DEBUG:minizinc:CLIDriver:run -> command: "/home/hbierlee/Projects/libminizinc/release/minizinc --allow-multiple-assignments --solvers-json", timeout None
+DEBUG:minizinc:CLIDriver:run -> command: "/home/hbierlee/Projects/libminizinc/release/minizinc --allow-multiple-assignments --solvers-json", timeout None
+DEBUG:minizinc:CLIDriver:run -> command: "/home/hbierlee/Projects/libminizinc/release/minizinc --allow-multiple-assignments --solvers-json", timeout None
+DEBUG:minizinc:CLIDriver:run -> command: "/home/hbierlee/Projects/libminizinc/release/minizinc --allow-multiple-assignments --solvers-json", timeout None
+DEBUG:minizinc:CLIDriver:run -> command: "/home/hbierlee/Projects/libminizinc/release/minizinc --allow-multiple-assignments --solvers-json", timeout None
+DEBUG:minizinc:CLIDriver:run -> command: "/home/hbierlee/Projects/libminizinc/release/minizinc --allow-multiple-assignments --solvers-json", timeout None
+DEBUG:minizinc:CLIDriver:run -> command: "/home/hbierlee/Projects/libminizinc/release/minizinc --allow-multiple-assignments --solvers-json", timeout None
+DEBUG:minizinc:CLIDriver:run -> command: "/home/hbierlee/Projects/libminizinc/release/minizinc --allow-multiple-assignments --solvers-json", timeout None
+DEBUG:minizinc:CLIDriver:run -> command: "/home/hbierlee/Projects/libminizinc/release/minizinc --allow-multiple-assignments --solvers-json", timeout None
+DEBUG:minizinc:CLIDriver:run -> command: "/home/hbierlee/Projects/libminizinc/release/minizinc --allow-multiple-assignments --solvers-json", timeout None
+DEBUG:minizinc:CLIDriver:run -> command: "/home/hbierlee/Projects/libminizinc/release/minizinc --allow-multiple-assignments --solvers-json", timeout None
+DEBUG:minizinc:CLIDriver:run -> command: "/home/hbierlee/Projects/libminizinc/release/minizinc --allow-multiple-assignments --solvers-json", timeout None
+DEBUG:minizinc:CLIDriver:run -> command: "/home/hbierlee/Projects/libminizinc/release/minizinc --allow-multiple-assignments --solvers-json", timeout None
+DEBUG:minizinc:CLIDriver:run -> command: "/home/hbierlee/Projects/libminizinc/release/minizinc --allow-multiple-assignments --solvers-json", timeout None
+DEBUG:minizinc:CLIDriver:run -> command: "/home/hbierlee/Projects/libminizinc/release/minizinc --allow-multiple-assignments --solvers-json", timeout None
+DEBUG:minizinc:CLIDriver:run -> command: "/home/hbierlee/Projects/libminizinc/release/minizinc --allow-multiple-assignments --solvers-json", timeout None
+DEBUG:asyncio:Using selector: EpollSelector
+DEBUG:minizinc:CLIDriver:run -> command: "/home/hbierlee/Projects/libminizinc/release/minizinc --solver org.potassco.clasp@3.3.5 --allow-multiple-assignments --model-interface-only /home/hbierlee/Projects/mzn-bench/instances/../../libminizinc/thesis/benchmarks/minizinc-benchmarks/knights_circuit/knights_circuit.mzn", timeout None
+DEBUG:minizinc:CLIInstance:analyse -> output fields: [('p', typing.List[int]), ('_checker', <class 'str'>)]
+DEBUG:minizinc:CLIDriver:run -> command: "/home/hbierlee/Projects/libminizinc/release/minizinc --solver org.potassco.clasp@3.3.5 --allow-multiple-assignments --model-interface-only /home/hbierlee/Projects/mzn-bench/instances/../../libminizinc/thesis/benchmarks/minizinc-benchmarks/knights_circuit/knights_circuit.mzn /tmp/jobs/hbierlee/59123/mzn_fragment5fbceue3.mzn", timeout None
+DEBUG:minizinc:CLIInstance:analyse -> output fields: [('p', typing.List[int]), ('_checker', <class 'str'>)]
+DEBUG:minizinc:CLIDriver:create_process -> program: /home/hbierlee/Projects/libminizinc/release/minizinc args: "--solver org.potassco.clasp@3.3.5 --allow-multiple-assignments --output-mode json --output-time --output-objective --output-output-item --statistics --intermediate-solutions --time-limit 1200000 --intermediate-solutions-x --solver-time-limit 1 /home/hbierlee/Projects/mzn-bench/instances/../../libminizinc/thesis/benchmarks/minizinc-benchmarks/knights_circuit/knights_circuit.mzn /tmp/jobs/hbierlee/59123/mzn_datavgzjuwha.json /tmp/jobs/hbierlee/59123/mzn_fragmentb0h31oyw.mzn"
+slurmstepd-extra001: error: Detected 1 oom-kill event(s) in step 59123.batch cgroup. Some of your processes may have been killed by the cgroup out-of-memory handler.

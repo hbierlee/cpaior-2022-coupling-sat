@@ -1,0 +1,99 @@
+- configuration: gecode
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1407-line1350.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 1, 1, 1, 1]
+    - [1, 1, 1, 3, 1]
+    - [1, 3, 1, 4, 1]
+    - [1, 1, 1, 1, 1]
+    - [1, 2, 1, 2, 1]
+    - [1, 2, 1, 1, 1]
+    - [1, 1, 1, 1, 1]
+    - [1, 2, 1, 2, 1]
+    - [1, 2, 1, 2, 1]
+    - [1, 2, 1, 3, 1]
+    - [1, 2, 1, 1, 1]
+    - [1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1]
+    - [1, 2, 1, 1, 1]
+    - [1, 1, 1, 5, 1]
+    objective: 966
+  status: SATISFIED
+  time: 0.09
+- configuration: gecode
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1407-line1350.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 1, 1, 1, 1]
+    - [1, 1, 1, 2, 1]
+    - [1, 3, 1, 3, 1]
+    - [1, 1, 1, 1, 1]
+    - [1, 3, 1, 2, 1]
+    - [1, 2, 1, 1, 1]
+    - [1, 1, 1, 1, 1]
+    - [1, 2, 1, 2, 1]
+    - [1, 2, 1, 2, 1]
+    - [1, 2, 1, 2, 1]
+    - [1, 2, 1, 1, 1]
+    - [1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1]
+    - [1, 2, 1, 1, 1]
+    - [1, 1, 2, 4, 1]
+    objective: 891
+  status: SATISFIED
+  time: 0.1
+- configuration: gecode
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1407-line1350.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 1, 1, 1, 1]
+    - [1, 1, 1, 2, 1]
+    - [1, 3, 1, 3, 1]
+    - [1, 1, 1, 1, 1]
+    - [1, 2, 1, 2, 1]
+    - [1, 2, 1, 1, 1]
+    - [1, 1, 1, 1, 1]
+    - [1, 2, 1, 2, 1]
+    - [1, 2, 1, 2, 1]
+    - [1, 2, 1, 2, 1]
+    - [1, 2, 1, 1, 1]
+    - [1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1]
+    - [1, 2, 2, 1, 1]
+    - [1, 1, 2, 4, 1]
+    objective: 866
+  status: SATISFIED
+  time: 0.1
+- configuration: gecode
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1407-line1350.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 1, 1, 1, 1]
+    - [1, 1, 1, 2, 1]
+    - [1, 3, 1, 3, 2]
+    - [1, 1, 1, 1, 1]
+    - [1, 2, 1, 2, 1]
+    - [1, 2, 1, 1, 1]
+    - [1, 1, 1, 1, 1]
+    - [1, 2, 1, 2, 1]
+    - [1, 2, 1, 2, 1]
+    - [1, 2, 1, 2, 1]
+    - [1, 2, 1, 1, 1]
+    - [1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1]
+    - [1, 2, 1, 1, 1]
+    - [1, 1, 2, 3, 1]
+    objective: 841
+  status: SATISFIED
+  time: 0.11
+- {configuration: gecode, data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1407-line1350.dzn,
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn,
+  problem: tablelayout, status: OPTIMAL_SOLUTION, time: 46.19}

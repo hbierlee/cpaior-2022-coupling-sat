@@ -1,0 +1,28 @@
+- configuration: mzn-sat-lingeling-direct-direct
+  data_file: n=10;m=10;holes={}
+  model: ../../libminizinc/thesis/benchmarks/minizinc-benchmarks/knights_circuit/knights_circuit.mzn
+  problem: knights
+  solution:
+    p: [13, 14, 11, 12, 13, 14, 15, 16, 17, 29, 3, 4, 5, 2, 3, 4, 5, 6, 7, 8, 2, 1,
+      2, 3, 4, 5, 6, 7, 8, 9, 12, 11, 12, 13, 14, 15, 16, 17, 18, 19, 22, 21, 22,
+      23, 24, 25, 26, 27, 28, 29, 32, 31, 32, 33, 34, 35, 36, 37, 38, 39, 42, 41,
+      42, 43, 44, 45, 46, 47, 48, 49, 52, 51, 52, 53, 54, 55, 56, 57, 58, 59, 62,
+      61, 62, 63, 64, 65, 66, 100, 68, 69, 83, 71, 72, 73, 74, 75, 76, 77, 78, 88]
+  status: SATISFIED
+  time: 17.18
+- configuration: mzn-sat-lingeling-direct-direct
+  data_file: n=10;m=10;holes={}
+  model: ../../libminizinc/thesis/benchmarks/minizinc-benchmarks/knights_circuit/knights_circuit.mzn
+  problem: knights
+  solution:
+    p: [13, 14, 11, 16, 24, 27, 15, 20, 17, 18, 32, 4, 21, 26, 3, 35, 5, 30, 7, 28,
+      2, 1, 42, 36, 6, 38, 8, 9, 10, 49, 12, 51, 41, 22, 54, 44, 29, 50, 60, 19, 62,
+      63, 31, 23, 33, 25, 39, 56, 57, 58, 43, 71, 72, 66, 34, 37, 76, 70, 40, 79,
+      53, 81, 55, 52, 86, 45, 46, 47, 48, 78, 92, 91, 61, 93, 94, 95, 98, 97, 100,
+      59, 73, 74, 64, 65, 77, 67, 99, 96, 68, 69, 83, 84, 85, 82, 87, 75, 89, 90,
+      80, 88]
+  status: SATISFIED
+  time: 17.21
+- {configuration: mzn-sat-lingeling-direct-direct, data_file: 'n=10;m=10;holes={}',
+  model: ../../libminizinc/thesis/benchmarks/minizinc-benchmarks/knights_circuit/knights_circuit.mzn,
+  problem: knights, status: SATISFIED}

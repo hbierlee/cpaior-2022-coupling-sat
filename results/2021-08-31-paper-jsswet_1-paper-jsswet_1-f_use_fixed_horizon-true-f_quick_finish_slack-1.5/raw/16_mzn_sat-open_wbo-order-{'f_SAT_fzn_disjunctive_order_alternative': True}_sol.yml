@@ -1,0 +1,54 @@
+- configuration: "mzn_sat-open_wbo-order-{'f_SAT_fzn_disjunctive_order_alternative':\
+    \ True}"
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jobshop_wet_by_1/jobshop_la08.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jsswet.mzn
+  problem: jsswet
+  solution:
+    objective: 92
+    x:
+    - [0, 204, 186, 198, 289]
+    - [0, 21, 40, 127, 138]
+    - [0, 14, 27, 102, 118]
+    - [0, 95, 161, 168, 245]
+    - [0, 34, 123, 129, 174]
+    - [0, 88, 165, 185, 238]
+    - [0, 9, 36, 88, 176]
+    - [0, 69, 121, 183, 271]
+    - [0, 90, 152, 161, 222]
+    - [0, 5, 59, 118, 206]
+    - [0, 41, 91, 169, 222]
+    - [0, 38, 110, 201, 269]
+    - [0, 45, 140, 192, 217]
+    - [0, 30, 96, 119, 155]
+    - [0, 95, 166, 242, 250]
+  status: SATISFIED
+  time: 30.93
+- configuration: "mzn_sat-open_wbo-order-{'f_SAT_fzn_disjunctive_order_alternative':\
+    \ True}"
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jobshop_wet_by_1/jobshop_la08.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jsswet.mzn
+  problem: jsswet
+  solution:
+    objective: 92
+    x:
+    - [99, 204, 373, 385, 549]
+    - [95, 179, 198, 450, 476]
+    - [19, 54, 93, 369, 703]
+    - [0, 113, 191, 365, 442]
+    - [116, 179, 269, 504, 829]
+    - [268, 461, 541, 561, 678]
+    - [5, 14, 41, 204, 629]
+    - [280, 398, 513, 684, 772]
+    - [350, 616, 685, 752, 895]
+    - [0, 150, 204, 285, 778]
+    - [575, 616, 694, 800, 891]
+    - [0, 41, 450, 902, 970]
+    - [468, 538, 633, 726, 805]
+    - [69, 99, 168, 559, 874]
+    - [298, 396, 724, 833, 934]
+  status: SATISFIED
+  time: 31.04
+- {configuration: "mzn_sat-open_wbo-order-{'f_SAT_fzn_disjunctive_order_alternative':\
+    \ True}", data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jobshop_wet_by_1/jobshop_la08.dzn,
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jsswet.mzn,
+  problem: jsswet, status: OPTIMAL_SOLUTION, time: 31.6}

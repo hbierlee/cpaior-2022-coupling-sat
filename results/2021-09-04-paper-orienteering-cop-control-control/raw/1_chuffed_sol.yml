@@ -1,0 +1,12 @@
+- configuration: chuffed
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_easy_2.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering-control.mzn
+  problem: orienteering
+  solution:
+    objective: 628
+    x: [12, 1, 9, 6, 3, 11, 4, 10, 14, 7, 5, 13, 8, 15, 2]
+  status: SATISFIED
+  time: 0.07
+- {configuration: chuffed, data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_easy_2.dzn,
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering-control.mzn,
+  problem: orienteering, status: OPTIMAL_SOLUTION, time: 0.07}

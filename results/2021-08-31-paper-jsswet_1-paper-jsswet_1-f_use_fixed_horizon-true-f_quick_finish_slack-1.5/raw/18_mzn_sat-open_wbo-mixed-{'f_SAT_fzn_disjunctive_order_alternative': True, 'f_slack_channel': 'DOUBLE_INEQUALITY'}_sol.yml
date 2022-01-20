@@ -1,0 +1,54 @@
+- configuration: "mzn_sat-open_wbo-mixed-{'f_SAT_fzn_disjunctive_order_alternative':\
+    \ True, 'f_slack_channel': 'DOUBLE_INEQUALITY'}"
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jobshop_wet_by_1/jobshop_la10.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jsswet.mzn
+  problem: jsswet
+  solution:
+    objective: 92
+    x:
+    - [0, 58, 102, 107, 310]
+    - [0, 89, 186, 282, 359]
+    - [0, 77, 164, 245, 284]
+    - [0, 57, 78, 109, 124]
+    - [0, 48, 88, 137, 207]
+    - [0, 34, 116, 196, 206]
+    - [0, 91, 166, 221, 238]
+    - [0, 62, 109, 181, 216]
+    - [0, 64, 139, 189, 279]
+    - [0, 67, 87, 102, 114]
+    - [0, 52, 145, 213, 242]
+    - [0, 70, 128, 221, 228]
+    - [0, 27, 109, 172, 178]
+    - [0, 87, 143, 179, 205]
+    - [0, 76, 112, 148, 163]
+  status: SATISFIED
+  time: 28.44
+- configuration: "mzn_sat-open_wbo-mixed-{'f_SAT_fzn_disjunctive_order_alternative':\
+    \ True, 'f_slack_channel': 'DOUBLE_INEQUALITY'}"
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jobshop_wet_by_1/jobshop_la10.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jsswet.mzn
+  problem: jsswet
+  solution:
+    objective: 92
+    x:
+    - [107, 516, 594, 599, 612]
+    - [165, 254, 402, 517, 1050]
+    - [118, 254, 651, 765, 817]
+    - [362, 473, 965, 1074, 1090]
+    - [468, 535, 690, 747, 870]
+    - [126, 169, 344, 425, 435]
+    - [599, 690, 814, 891, 973]
+    - [560, 622, 739, 819, 963]
+    - [608, 672, 941, 1038, 1134]
+    - [64, 353, 499, 514, 528]
+    - [201, 260, 419, 622, 981]
+    - [238, 449, 887, 1031, 1084]
+    - [97, 732, 817, 1084, 1090]
+    - [17, 182, 565, 886, 988]
+    - [161, 308, 351, 387, 427]
+  status: SATISFIED
+  time: 28.56
+- {configuration: "mzn_sat-open_wbo-mixed-{'f_SAT_fzn_disjunctive_order_alternative':\
+    \ True, 'f_slack_channel': 'DOUBLE_INEQUALITY'}", data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jobshop_wet_by_1/jobshop_la10.dzn,
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jsswet.mzn,
+  problem: jsswet, status: OPTIMAL_SOLUTION, time: 29.16}

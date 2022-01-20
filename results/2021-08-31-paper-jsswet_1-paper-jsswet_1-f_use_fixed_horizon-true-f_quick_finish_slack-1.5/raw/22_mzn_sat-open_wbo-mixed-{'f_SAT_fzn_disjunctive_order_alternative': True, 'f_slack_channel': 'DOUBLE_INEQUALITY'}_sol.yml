@@ -1,0 +1,64 @@
+- configuration: "mzn_sat-open_wbo-mixed-{'f_SAT_fzn_disjunctive_order_alternative':\
+    \ True, 'f_slack_channel': 'DOUBLE_INEQUALITY'}"
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jobshop_wet_by_1/jobshop_la14.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jsswet.mzn
+  problem: jsswet
+  solution:
+    objective: 123
+    x:
+    - [0, 5, 63, 107, 305]
+    - [0, 89, 185, 282, 366]
+    - [0, 81, 166, 253, 292]
+    - [0, 15, 72, 145, 166]
+    - [0, 48, 119, 189, 229]
+    - [0, 10, 92, 126, 206]
+    - [0, 17, 72, 163, 238]
+    - [0, 47, 109, 181, 216]
+    - [0, 90, 184, 234, 298]
+    - [0, 15, 82, 94, 114]
+    - [0, 93, 122, 174, 231]
+    - [0, 77, 170, 228, 298]
+    - [0, 63, 90, 185, 191]
+    - [0, 36, 62, 110, 166]
+    - [0, 36, 44, 59, 135]
+    - [0, 78, 162, 203, 233]
+    - [0, 78, 153, 241, 254]
+    - [0, 54, 94, 107, 189]
+    - [0, 26, 108, 160, 166]
+    - [0, 54, 118, 172, 204]
+  status: SATISFIED
+  time: 67.11
+- configuration: "mzn_sat-open_wbo-mixed-{'f_SAT_fzn_disjunctive_order_alternative':\
+    \ True, 'f_slack_channel': 'DOUBLE_INEQUALITY'}"
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jobshop_wet_by_1/jobshop_la14.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jsswet.mzn
+  problem: jsswet
+  solution:
+    objective: 123
+    x:
+    - [10, 18, 289, 582, 712]
+    - [13, 123, 330, 427, 611]
+    - [77, 209, 468, 673, 783]
+    - [31, 82, 374, 447, 511]
+    - [177, 303, 398, 501, 806]
+    - [150, 221, 310, 712, 855]
+    - [7, 46, 103, 504, 688]
+    - [139, 225, 298, 469, 705]
+    - [203, 333, 803, 860, 935]
+    - [583, 605, 692, 783, 1039]
+    - [580, 673, 924, 982, 1081]
+    - [506, 619, 716, 990, 1114]
+    - [370, 478, 597, 713, 792]
+    - [87, 556, 1031, 1115, 1332]
+    - [548, 973, 999, 1162, 1273]
+    - [1036, 1131, 1266, 1309, 1348]
+    - [881, 976, 1161, 1249, 1267]
+    - [1053, 1121, 1171, 1215, 1307]
+    - [774, 909, 1115, 1243, 1261]
+    - [344, 555, 1174, 1229, 1404]
+  status: SATISFIED
+  time: 67.32
+- {configuration: "mzn_sat-open_wbo-mixed-{'f_SAT_fzn_disjunctive_order_alternative':\
+    \ True, 'f_slack_channel': 'DOUBLE_INEQUALITY'}", data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jobshop_wet_by_1/jobshop_la14.dzn,
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jsswet.mzn,
+  problem: jsswet, status: OPTIMAL_SOLUTION, time: 68.41}

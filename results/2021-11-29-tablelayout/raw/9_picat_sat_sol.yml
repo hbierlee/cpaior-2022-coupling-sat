@@ -1,0 +1,195 @@
+- configuration: picat_sat
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1407-line1350.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 1, 1, 2, 1]
+    - [1, 2, 1, 4, 1]
+    - [1, 8, 1, 6, 2]
+    - [1, 2, 1, 2, 2]
+    - [1, 5, 1, 3, 1]
+    - [1, 4, 1, 1, 1]
+    - [1, 1, 1, 1, 1]
+    - [1, 5, 1, 4, 1]
+    - [1, 4, 1, 4, 1]
+    - [1, 4, 1, 4, 1]
+    - [1, 4, 1, 1, 2]
+    - [1, 2, 2, 1, 1]
+    - [1, 1, 2, 1, 1]
+    - [1, 4, 1, 1, 1]
+    - [1, 2, 3, 6, 1]
+    objective: 3106
+  status: SATISFIED
+  time: 8.47
+- configuration: picat_sat
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1407-line1350.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 1, 1, 2, 1]
+    - [1, 2, 1, 4, 1]
+    - [1, 3, 1, 6, 2]
+    - [1, 2, 1, 2, 2]
+    - [1, 5, 1, 3, 1]
+    - [1, 4, 1, 1, 1]
+    - [1, 1, 1, 1, 1]
+    - [1, 5, 1, 4, 1]
+    - [1, 4, 1, 2, 1]
+    - [1, 4, 1, 4, 1]
+    - [1, 5, 1, 1, 2]
+    - [1, 2, 2, 1, 1]
+    - [1, 1, 2, 1, 1]
+    - [1, 4, 2, 2, 1]
+    - [1, 2, 1, 7, 1]
+    objective: 3018
+  status: SATISFIED
+  time: 8.76
+- configuration: picat_sat
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1407-line1350.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 1, 1, 1, 1]
+    - [1, 2, 1, 3, 1]
+    - [1, 2, 1, 3, 2]
+    - [1, 2, 1, 2, 2]
+    - [1, 5, 1, 2, 1]
+    - [1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1]
+    - [1, 3, 1, 2, 1]
+    - [1, 2, 1, 2, 1]
+    - [1, 3, 1, 5, 1]
+    - [1, 2, 1, 1, 1]
+    - [1, 2, 2, 1, 1]
+    - [1, 1, 2, 1, 1]
+    - [1, 2, 2, 1, 1]
+    - [1, 2, 3, 4, 1]
+    objective: 1366
+  status: SATISFIED
+  time: 9.98
+- configuration: picat_sat
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1407-line1350.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 1, 1, 2, 1]
+    - [1, 1, 1, 2, 1]
+    - [1, 3, 1, 3, 3]
+    - [1, 1, 1, 2, 2]
+    - [1, 2, 1, 2, 1]
+    - [1, 2, 1, 1, 1]
+    - [1, 1, 1, 1, 1]
+    - [1, 5, 1, 3, 1]
+    - [1, 2, 1, 1, 1]
+    - [1, 2, 1, 2, 1]
+    - [1, 2, 1, 1, 2]
+    - [1, 2, 2, 1, 1]
+    - [1, 2, 2, 1, 1]
+    - [1, 2, 2, 1, 1]
+    - [1, 1, 2, 2, 1]
+    objective: 999
+  status: SATISFIED
+  time: 14.28
+- configuration: picat_sat
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1407-line1350.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 1, 1, 1, 1]
+    - [1, 2, 1, 2, 1]
+    - [1, 2, 1, 3, 3]
+    - [1, 2, 1, 1, 2]
+    - [1, 2, 1, 2, 1]
+    - [1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1]
+    - [1, 2, 1, 2, 1]
+    - [1, 2, 1, 2, 1]
+    - [1, 2, 1, 2, 1]
+    - [1, 1, 1, 1, 2]
+    - [1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1]
+    - [1, 2, 2, 1, 2]
+    - [1, 2, 2, 4, 1]
+    objective: 876
+  status: SATISFIED
+  time: 16.59
+- configuration: picat_sat
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1407-line1350.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 1, 1, 1, 1]
+    - [1, 1, 2, 2, 1]
+    - [1, 3, 2, 3, 2]
+    - [1, 1, 1, 1, 1]
+    - [1, 2, 2, 2, 1]
+    - [1, 2, 2, 1, 1]
+    - [1, 1, 1, 1, 1]
+    - [1, 2, 2, 2, 1]
+    - [1, 2, 2, 2, 1]
+    - [1, 2, 2, 2, 1]
+    - [1, 2, 2, 1, 2]
+    - [1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1]
+    - [1, 2, 1, 1, 1]
+    - [1, 2, 2, 3, 1]
+    objective: 849
+  status: SATISFIED
+  time: 20.61
+- configuration: picat_sat
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1407-line1350.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 1, 1, 1, 1]
+    - [1, 1, 1, 2, 1]
+    - [1, 3, 2, 3, 3]
+    - [1, 1, 1, 1, 1]
+    - [1, 2, 1, 2, 1]
+    - [1, 2, 1, 1, 1]
+    - [1, 1, 1, 1, 1]
+    - [1, 2, 1, 2, 1]
+    - [1, 2, 2, 2, 1]
+    - [1, 2, 1, 2, 1]
+    - [1, 2, 1, 1, 1]
+    - [1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1]
+    - [1, 2, 2, 1, 1]
+    - [1, 2, 2, 3, 1]
+    objective: 843
+  status: SATISFIED
+  time: 24.98
+- configuration: picat_sat
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1407-line1350.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 1, 1, 1, 1]
+    - [1, 2, 1, 2, 1]
+    - [1, 3, 2, 3, 3]
+    - [1, 1, 1, 1, 1]
+    - [1, 2, 2, 2, 1]
+    - [1, 2, 1, 1, 1]
+    - [1, 1, 1, 1, 1]
+    - [1, 2, 2, 2, 1]
+    - [1, 2, 2, 2, 1]
+    - [1, 2, 1, 2, 1]
+    - [1, 2, 1, 1, 1]
+    - [1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1]
+    - [1, 2, 2, 1, 1]
+    - [1, 2, 2, 3, 1]
+    objective: 841
+  status: SATISFIED
+  time: 27.09
+- {configuration: picat_sat, data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1407-line1350.dzn,
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn,
+  problem: tablelayout, status: OPTIMAL_SOLUTION, time: 27.09}

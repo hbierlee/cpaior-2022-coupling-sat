@@ -1,0 +1,39 @@
+- configuration: picat_sat
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_easy_4.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering-control.mzn
+  problem: orienteering
+  solution:
+    objective: 245
+    x: [14, 1, 4, 6, 5, 2, 7, 8, 9, 3, 10, 12, 13, 11, 15]
+  status: SATISFIED
+  time: 4.26
+- configuration: picat_sat
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_easy_4.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering-control.mzn
+  problem: orienteering
+  solution:
+    objective: 262
+    x: [5, 1, 8, 4, 13, 2, 7, 6, 3, 9, 11, 12, 10, 14, 15]
+  status: SATISFIED
+  time: 7.75
+- configuration: picat_sat
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_easy_4.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering-control.mzn
+  problem: orienteering
+  solution:
+    objective: 493
+    x: [5, 1, 4, 15, 11, 2, 8, 9, 10, 3, 14, 12, 13, 7, 6]
+  status: SATISFIED
+  time: 11.6
+- configuration: picat_sat
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_easy_4.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering-control.mzn
+  problem: orienteering
+  solution:
+    objective: 545
+    x: [5, 1, 8, 9, 13, 15, 14, 7, 10, 3, 2, 12, 6, 11, 4]
+  status: SATISFIED
+  time: 15.25
+- {configuration: picat_sat, data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_easy_4.dzn,
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering-control.mzn,
+  problem: orienteering, status: OPTIMAL_SOLUTION, time: 26.82}

@@ -1,0 +1,41 @@
+- configuration: mzn_sat-open_wbo-binary
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jobshop_wet_by_1/jobshop_orb07.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jsswet.mzn
+  problem: jsswet
+  solution:
+    objective: 102
+    x:
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 439]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 411]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 397]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 416]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 439]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 443]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 453]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 331]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 38]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  status: SATISFIED
+  time: 4.31
+- configuration: mzn_sat-open_wbo-binary
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jobshop_wet_by_1/jobshop_orb07.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jsswet.mzn
+  problem: jsswet
+  solution:
+    objective: 102
+    x:
+    - [0, 33, 47, 62, 164, 208, 251, 280, 323, 439]
+    - [32, 46, 58, 135, 159, 298, 349, 372, 392, 411]
+    - [145, 175, 196, 226, 271, 300, 315, 336, 352, 397]
+    - [40, 215, 249, 290, 319, 333, 350, 373, 390, 416]
+    - [64, 93, 122, 161, 257, 272, 287, 314, 395, 439]
+    - [24, 91, 170, 261, 287, 335, 355, 388, 413, 443]
+    - [0, 15, 106, 131, 143, 164, 223, 417, 438, 453]
+    - [16, 32, 61, 99, 118, 157, 207, 273, 319, 331]
+    - [62, 160, 170, 202, 207, 228, 355, 381, 391, 422]
+    - [0, 20, 27, 95, 127, 224, 249, 282, 359, 397]
+  status: SATISFIED
+  time: 4.32
+- {configuration: mzn_sat-open_wbo-binary, data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jobshop_wet_by_1/jobshop_orb07.dzn,
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jsswet.mzn,
+  problem: jsswet, status: OPTIMAL_SOLUTION, time: 4.34}

@@ -1,0 +1,61 @@
+- configuration: mzn_sat-open_wbo-binary
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jobshop_wet_by_1/jobshop_la14.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jsswet.mzn
+  problem: jsswet
+  solution:
+    objective: 123
+    x:
+    - [0, 0, 0, 0, 712]
+    - [0, 0, 0, 0, 603]
+    - [0, 0, 0, 0, 768]
+    - [0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0]
+  status: SATISFIED
+  time: 460.64
+- configuration: mzn_sat-open_wbo-binary
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jobshop_wet_by_1/jobshop_la14.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jsswet.mzn
+  problem: jsswet
+  solution:
+    objective: 123
+    x:
+    - [575, 591, 649, 693, 712]
+    - [3, 94, 206, 413, 603]
+    - [12, 223, 543, 706, 783]
+    - [112, 127, 190, 263, 511]
+    - [221, 288, 371, 569, 806]
+    - [195, 359, 474, 711, 855]
+    - [286, 303, 362, 453, 680]
+    - [63, 127, 191, 535, 705]
+    - [453, 555, 653, 719, 935]
+    - [203, 346, 542, 897, 1039]
+    - [1, 192, 482, 982, 1081]
+    - [811, 889, 984, 1044, 1114]
+    - [128, 324, 358, 577, 792]
+    - [747, 867, 1033, 1152, 1332]
+    - [895, 1122, 1138, 1161, 1273]
+    - [991, 1132, 1265, 1315, 1348]
+    - [284, 618, 1153, 1241, 1267]
+    - [895, 949, 1016, 1221, 1307]
+    - [95, 783, 1087, 1254, 1261]
+    - [511, 648, 1170, 1224, 1404]
+  status: SATISFIED
+  time: 460.65
+- {configuration: mzn_sat-open_wbo-binary, data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jobshop_wet_by_1/jobshop_la14.dzn,
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jsswet.mzn,
+  problem: jsswet, status: OPTIMAL_SOLUTION, time: 460.75}

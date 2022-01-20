@@ -1,0 +1,77 @@
+- configuration: mzn-sat-open-wbo-order_binary_binary-True-PB_BEST-best
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 2, 1, 1, 2, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 4]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 2, 1, 2]
+    - [1, 2, 1, 2, 2, 1, 3]
+    - [1, 2, 1, 2, 2, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    objective: 1449
+  status: SATISFIED
+  time: 601.21
+- configuration: mzn-sat-open-wbo-order_binary_binary-True-PB_BEST-best
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 2, 1, 1, 2, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 4]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 2, 1, 2]
+    - [1, 2, 1, 2, 2, 1, 3]
+    - [1, 2, 1, 2, 2, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    objective: 1449
+  status: SATISFIED
+  time: 601.26
+- {configuration: mzn-sat-open-wbo-order_binary_binary-True-PB_BEST-best, data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn,
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn,
+  problem: tablelayout, status: SATISFIED}

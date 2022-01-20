@@ -1,0 +1,64 @@
+- configuration: "mzn_sat-open_wbo-order-{'f_SAT_fzn_disjunctive_order_alternative':\
+    \ True}"
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jobshop_wet_by_1/jobshop_la12.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jsswet.mzn
+  problem: jsswet
+  solution:
+    objective: 46
+    x:
+    - [0, 227, 105, 189, 234]
+    - [0, 50, 91, 120, 138]
+    - [0, 16, 70, 122, 160]
+    - [0, 62, 119, 156, 230]
+    - [0, 68, 129, 159, 240]
+    - [0, 89, 178, 189, 268]
+    - [0, 66, 157, 190, 210]
+    - [0, 8, 32, 87, 119]
+    - [0, 7, 71, 110, 166]
+    - [0, 19, 59, 66, 74]
+    - [0, 63, 127, 218, 258]
+    - [0, 42, 103, 118, 216]
+    - [0, 80, 106, 181, 187]
+    - [0, 39, 61, 136, 160]
+    - [0, 15, 94, 102, 114]
+    - [0, 26, 69, 149, 171]
+    - [0, 62, 98, 161, 257]
+    - [0, 33, 51, 73, 78]
+    - [0, 64, 128, 217, 313]
+    - [0, 18, 41, 56, 94]
+  status: SATISFIED
+  time: 177.95
+- configuration: "mzn_sat-open_wbo-order-{'f_SAT_fzn_disjunctive_order_alternative':\
+    \ True}"
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jobshop_wet_by_1/jobshop_la12.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jsswet.mzn
+  problem: jsswet
+  solution:
+    objective: 46
+    x:
+    - [401, 557, 662, 972, 1090]
+    - [689, 945, 993, 1161, 1241]
+    - [538, 554, 742, 794, 863]
+    - [94, 228, 301, 411, 503]
+    - [619, 932, 1039, 1075, 1173]
+    - [424, 513, 608, 639, 864]
+    - [222, 289, 499, 990, 1018]
+    - [536, 598, 666, 1035, 1076]
+    - [96, 117, 796, 1077, 1164]
+    - [381, 443, 492, 499, 565]
+    - [129, 210, 309, 495, 540]
+    - [700, 883, 1027, 1084, 1182]
+    - [12, 103, 130, 858, 885]
+    - [39, 98, 192, 285, 342]
+    - [386, 404, 483, 491, 768]
+    - [743, 842, 937, 1048, 1214]
+    - [602, 664, 724, 787, 1133]
+    - [164, 208, 267, 827, 832]
+    - [274, 338, 402, 836, 944]
+    - [723, 746, 769, 1022, 1067]
+  status: SATISFIED
+  time: 178.12
+- {configuration: "mzn_sat-open_wbo-order-{'f_SAT_fzn_disjunctive_order_alternative':\
+    \ True}", data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jobshop_wet_by_1/jobshop_la12.dzn,
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jsswet.mzn,
+  problem: jsswet, status: OPTIMAL_SOLUTION, time: 179.06}

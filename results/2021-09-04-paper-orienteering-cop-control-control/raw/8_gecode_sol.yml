@@ -1,0 +1,303 @@
+- configuration: gecode
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_medium_5.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering-control.mzn
+  problem: orienteering
+  solution:
+    objective: 374
+    x: [28, 1, 24, 29, 5, 18, 7, 8, 9, 30, 11, 12, 13, 14, 15, 16, 17, 10, 19, 27,
+      21, 22, 23, 20, 25, 26, 6, 4, 3, 2]
+  status: SATISFIED
+  time: 0.14
+- configuration: gecode
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_medium_5.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering-control.mzn
+  problem: orienteering
+  solution:
+    objective: 400
+    x: [13, 1, 24, 30, 5, 18, 7, 8, 9, 10, 11, 12, 29, 14, 15, 16, 17, 28, 19, 27,
+      21, 22, 23, 20, 25, 26, 6, 4, 3, 2]
+  status: SATISFIED
+  time: 0.23
+- configuration: gecode
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_medium_5.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering-control.mzn
+  problem: orienteering
+  solution:
+    objective: 418
+    x: [22, 1, 24, 30, 5, 18, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 28, 19, 27,
+      21, 29, 23, 20, 25, 26, 6, 4, 3, 2]
+  status: SATISFIED
+  time: 0.24
+- configuration: gecode
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_medium_5.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering-control.mzn
+  problem: orienteering
+  solution:
+    objective: 518
+    x: [28, 1, 24, 29, 5, 6, 25, 8, 9, 30, 12, 27, 13, 14, 15, 16, 17, 10, 19, 11,
+      21, 22, 23, 20, 18, 26, 7, 4, 3, 2]
+  status: SATISFIED
+  time: 0.47
+- configuration: gecode
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_medium_5.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering-control.mzn
+  problem: orienteering
+  solution:
+    objective: 578
+    x: [28, 1, 24, 29, 5, 6, 25, 8, 9, 30, 12, 27, 13, 11, 15, 16, 17, 10, 19, 14,
+      21, 22, 23, 20, 18, 26, 7, 4, 3, 2]
+  status: SATISFIED
+  time: 0.51
+- configuration: gecode
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_medium_5.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering-control.mzn
+  problem: orienteering
+  solution:
+    objective: 657
+    x: [22, 1, 24, 30, 5, 6, 28, 8, 9, 27, 19, 12, 13, 11, 15, 16, 17, 10, 25, 14,
+      21, 29, 23, 20, 18, 26, 7, 4, 3, 2]
+  status: SATISFIED
+  time: 0.53
+- configuration: gecode
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_medium_5.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering-control.mzn
+  problem: orienteering
+  solution:
+    objective: 707
+    x: [22, 1, 24, 30, 14, 6, 7, 8, 9, 18, 19, 12, 13, 11, 15, 21, 17, 25, 16, 27,
+      28, 29, 23, 20, 5, 26, 10, 4, 3, 2]
+  status: SATISFIED
+  time: 2.51
+- configuration: gecode
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_medium_5.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering-control.mzn
+  problem: orienteering
+  solution:
+    objective: 710
+    x: [22, 1, 24, 30, 14, 6, 7, 8, 9, 18, 19, 27, 13, 11, 15, 21, 17, 25, 16, 12,
+      28, 29, 23, 20, 5, 26, 10, 4, 3, 2]
+  status: SATISFIED
+  time: 2.51
+- configuration: gecode
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_medium_5.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering-control.mzn
+  problem: orienteering
+  solution:
+    objective: 720
+    x: [22, 1, 24, 30, 14, 6, 28, 8, 9, 5, 11, 27, 13, 26, 15, 19, 17, 18, 25, 12,
+      16, 29, 23, 20, 7, 21, 10, 4, 3, 2]
+  status: SATISFIED
+  time: 5.58
+- configuration: gecode
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_medium_5.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering-control.mzn
+  problem: orienteering
+  solution:
+    objective: 733
+    x: [13, 1, 24, 30, 26, 6, 28, 8, 9, 5, 12, 27, 29, 11, 15, 19, 17, 18, 25, 14,
+      16, 22, 23, 20, 7, 21, 10, 4, 3, 2]
+  status: SATISFIED
+  time: 5.66
+- configuration: gecode
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_medium_5.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering-control.mzn
+  problem: orienteering
+  solution:
+    objective: 751
+    x: [22, 1, 24, 30, 26, 6, 28, 8, 9, 5, 12, 27, 13, 11, 15, 19, 17, 18, 25, 14,
+      16, 29, 23, 20, 7, 21, 10, 4, 3, 2]
+  status: SATISFIED
+  time: 5.67
+- configuration: gecode
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_medium_5.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering-control.mzn
+  problem: orienteering
+  solution:
+    objective: 793
+    x: [22, 1, 24, 30, 14, 6, 28, 8, 9, 5, 13, 12, 21, 11, 15, 19, 17, 18, 25, 27,
+      16, 29, 23, 20, 7, 26, 10, 4, 3, 2]
+  status: SATISFIED
+  time: 5.69
+- configuration: gecode
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_medium_5.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering-control.mzn
+  problem: orienteering
+  solution:
+    objective: 802
+    x: [13, 1, 24, 30, 5, 6, 28, 12, 9, 18, 11, 27, 29, 26, 15, 19, 17, 25, 8, 14,
+      16, 22, 23, 20, 7, 21, 10, 4, 3, 2]
+  status: SATISFIED
+  time: 8.51
+- configuration: gecode
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_medium_5.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering-control.mzn
+  problem: orienteering
+  solution:
+    objective: 831
+    x: [13, 1, 24, 30, 5, 6, 19, 16, 9, 18, 12, 27, 29, 11, 15, 21, 17, 25, 8, 14,
+      28, 22, 23, 20, 7, 26, 10, 4, 3, 2]
+  status: SATISFIED
+  time: 8.52
+- configuration: gecode
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_medium_5.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering-control.mzn
+  problem: orienteering
+  solution:
+    objective: 849
+    x: [22, 1, 24, 30, 5, 6, 19, 16, 9, 18, 12, 27, 13, 11, 15, 21, 17, 25, 8, 14,
+      28, 29, 23, 20, 7, 26, 10, 4, 3, 2]
+  status: SATISFIED
+  time: 8.73
+- configuration: gecode
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_medium_5.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering-control.mzn
+  problem: orienteering
+  solution:
+    objective: 857
+    x: [22, 1, 24, 30, 10, 6, 25, 16, 9, 18, 19, 27, 13, 11, 15, 21, 17, 28, 8, 14,
+      26, 29, 23, 20, 12, 5, 4, 7, 3, 2]
+  status: SATISFIED
+  time: 128.78
+- configuration: gecode
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_medium_5.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering-control.mzn
+  problem: orienteering
+  solution:
+    objective: 904
+    x: [22, 1, 26, 30, 14, 6, 25, 19, 9, 27, 12, 8, 11, 20, 15, 21, 17, 10, 16, 24,
+      28, 29, 23, 13, 18, 5, 4, 7, 3, 2]
+  status: SATISFIED
+  time: 130.91
+- configuration: gecode
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_medium_5.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering-control.mzn
+  problem: orienteering
+  solution:
+    objective: 920
+    x: [22, 1, 24, 30, 5, 6, 25, 19, 29, 27, 13, 8, 28, 11, 15, 21, 17, 10, 16, 12,
+      26, 9, 23, 20, 18, 14, 4, 7, 3, 2]
+  status: SATISFIED
+  time: 156.09
+- configuration: gecode
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_medium_5.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering-control.mzn
+  problem: orienteering
+  solution:
+    objective: 929
+    x: [22, 1, 24, 30, 5, 6, 25, 16, 9, 27, 19, 8, 13, 11, 15, 21, 28, 10, 17, 12,
+      26, 29, 23, 20, 18, 14, 4, 7, 3, 2]
+  status: SATISFIED
+  time: 157.53
+- configuration: gecode
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_medium_5.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering-control.mzn
+  problem: orienteering
+  solution:
+    objective: 937
+    x: [22, 1, 26, 23, 5, 6, 25, 12, 9, 30, 14, 11, 13, 24, 15, 19, 28, 10, 8, 27,
+      16, 29, 17, 20, 18, 21, 4, 7, 3, 2]
+  status: SATISFIED
+  time: 167.73
+- configuration: gecode
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_medium_5.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering-control.mzn
+  problem: orienteering
+  solution:
+    objective: 939
+    x: [13, 1, 26, 30, 5, 6, 25, 19, 9, 27, 14, 15, 11, 24, 29, 8, 28, 10, 17, 12,
+      16, 22, 23, 20, 18, 21, 4, 7, 3, 2]
+  status: SATISFIED
+  time: 169.22
+- configuration: gecode
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_medium_5.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering-control.mzn
+  problem: orienteering
+  solution:
+    objective: 979
+    x: [13, 1, 24, 30, 22, 6, 25, 19, 9, 5, 14, 12, 11, 26, 15, 8, 28, 10, 17, 27,
+      16, 29, 23, 20, 18, 21, 4, 7, 3, 2]
+  status: SATISFIED
+  time: 169.46
+- configuration: gecode
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_medium_5.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering-control.mzn
+  problem: orienteering
+  solution:
+    objective: 993
+    x: [22, 1, 24, 30, 5, 6, 25, 19, 29, 27, 13, 12, 21, 11, 15, 8, 28, 10, 17, 14,
+      16, 9, 23, 20, 18, 26, 4, 7, 3, 2]
+  status: SATISFIED
+  time: 174.97
+- configuration: gecode
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_medium_5.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering-control.mzn
+  problem: orienteering
+  solution:
+    objective: 996
+    x: [22, 1, 24, 30, 5, 6, 4, 12, 29, 18, 13, 27, 21, 11, 15, 8, 28, 25, 17, 14,
+      16, 9, 23, 20, 19, 26, 10, 7, 3, 2]
+  status: SATISFIED
+  time: 201.66
+- configuration: gecode
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_medium_5.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering-control.mzn
+  problem: orienteering
+  solution:
+    objective: 1002
+    x: [22, 1, 26, 4, 5, 6, 25, 19, 14, 30, 13, 15, 24, 11, 29, 8, 28, 10, 17, 27,
+      16, 9, 23, 20, 18, 21, 12, 7, 3, 2]
+  status: SATISFIED
+  time: 226.29
+- configuration: gecode
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_medium_5.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering-control.mzn
+  problem: orienteering
+  solution:
+    objective: 1005
+    x: [13, 1, 24, 30, 22, 6, 4, 19, 9, 18, 14, 12, 11, 5, 29, 21, 15, 25, 16, 27,
+      28, 8, 23, 20, 7, 26, 10, 17, 3, 2]
+  status: SATISFIED
+  time: 333.68
+- configuration: gecode
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_medium_5.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering-control.mzn
+  problem: orienteering
+  solution:
+    objective: 1008
+    x: [13, 1, 24, 30, 22, 6, 4, 19, 9, 18, 14, 27, 11, 5, 29, 21, 15, 25, 16, 12,
+      28, 8, 23, 20, 7, 26, 10, 17, 3, 2]
+  status: SATISFIED
+  time: 333.69
+- configuration: gecode
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_medium_5.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering-control.mzn
+  problem: orienteering
+  solution:
+    objective: 1021
+    x: [13, 1, 24, 30, 5, 6, 4, 19, 22, 18, 14, 12, 11, 9, 29, 21, 15, 25, 16, 27,
+      28, 8, 23, 20, 7, 26, 10, 17, 3, 2]
+  status: SATISFIED
+  time: 333.79
+- configuration: gecode
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_medium_5.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering-control.mzn
+  problem: orienteering
+  solution:
+    objective: 1024
+    x: [22, 1, 15, 7, 5, 6, 25, 16, 14, 30, 12, 27, 11, 20, 29, 21, 19, 28, 8, 24,
+      13, 9, 23, 3, 18, 26, 10, 17, 4, 2]
+  status: SATISFIED
+  time: 400.95
+- configuration: gecode
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_medium_5.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering-control.mzn
+  problem: orienteering
+  solution:
+    objective: 1030
+    x: [3, 1, 24, 7, 10, 6, 25, 16, 22, 30, 14, 15, 11, 9, 29, 21, 19, 28, 8, 27,
+      13, 5, 23, 20, 18, 26, 12, 17, 4, 2]
+  status: SATISFIED
+  time: 407.38
+- {configuration: gecode, data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_medium_5.dzn,
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering-control.mzn,
+  problem: orienteering, status: SATISFIED}

@@ -1,0 +1,17 @@
+configuration: chuffed
+data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_t_hard_1.dzn
+evaluatedHalfReifiedConstraints: 199
+evaluatedReifiedConstraints: 298
+flatBoolConstraints: 199
+flatBoolVars: 398
+flatIntConstraints: 905
+flatIntVars: 699
+flatTime: 0.093957
+method: maximize
+model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering-control.mzn
+nSolutions: 3
+objective: 4574
+paths: 0
+problem: orienteering
+status: SATISFIED
+time: 600.206608516979

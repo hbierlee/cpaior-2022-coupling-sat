@@ -1,0 +1,15 @@
+- configuration: picat_sat
+  data_file: n=10;m=10;holes={}
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/knights_tour/knights.mzn
+  problem: knights
+  solution:
+    p: [13, 14, 11, 25, 17, 18, 15, 16, 28, 29, 23, 24, 34, 26, 3, 35, 36, 10, 7,
+      8, 2, 1, 4, 5, 37, 38, 6, 20, 50, 9, 12, 44, 21, 42, 27, 48, 49, 30, 47, 19,
+      22, 61, 31, 65, 53, 54, 59, 40, 57, 58, 43, 33, 32, 73, 74, 75, 76, 70, 80,
+      39, 82, 41, 51, 52, 84, 45, 46, 60, 77, 78, 63, 93, 85, 95, 96, 55, 56, 97,
+      67, 99, 62, 94, 91, 92, 64, 98, 66, 100, 68, 69, 72, 71, 81, 86, 83, 88, 89,
+      90, 87, 79]
+  status: SATISFIED
+  time: 0.19
+- {configuration: picat_sat, data_file: 'n=10;m=10;holes={}', model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/knights_tour/knights.mzn,
+  problem: knights, status: SATISFIED}

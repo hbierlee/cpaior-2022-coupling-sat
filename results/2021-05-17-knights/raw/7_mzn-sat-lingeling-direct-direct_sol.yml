@@ -1,0 +1,3 @@
+- {configuration: mzn-sat-lingeling-direct-direct, data_file: 'n=20;m=20;holes={}',
+  model: ../../libminizinc/thesis/benchmarks/minizinc-benchmarks/knights_circuit/knights_circuit.mzn,
+  problem: knights, status: UNKNOWN}

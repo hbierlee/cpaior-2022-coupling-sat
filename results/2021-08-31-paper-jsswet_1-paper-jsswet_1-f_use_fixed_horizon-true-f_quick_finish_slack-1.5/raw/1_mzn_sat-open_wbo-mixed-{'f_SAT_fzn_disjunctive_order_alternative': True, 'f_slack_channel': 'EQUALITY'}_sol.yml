@@ -1,0 +1,44 @@
+- configuration: "mzn_sat-open_wbo-mixed-{'f_SAT_fzn_disjunctive_order_alternative':\
+    \ True, 'f_slack_channel': 'EQUALITY'}"
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jobshop_wet_by_1/jobshop_abz5.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jsswet.mzn
+  problem: jsswet
+  solution:
+    objective: 103
+    x:
+    - [0, 88, 156, 250, 349, 416, 505, 582, 681, 767]
+    - [0, 72, 122, 191, 266, 360, 426, 518, 600, 694]
+    - [0, 83, 144, 227, 292, 356, 441, 519, 604, 659]
+    - [0, 94, 162, 223, 322, 376, 451, 517, 593, 656]
+    - [0, 69, 157, 239, 334, 433, 500, 595, 663, 730]
+    - [0, 99, 180, 244, 310, 390, 470, 539, 601, 680]
+    - [0, 50, 136, 233, 329, 424, 521, 587, 686, 738]
+    - [0, 98, 171, 253, 304, 375, 469, 554, 616, 711]
+    - [0, 94, 165, 246, 331, 397, 487, 563, 621, 714]
+    - [0, 50, 109, 191, 258, 314, 410, 468, 549, 608]
+  status: SATISFIED
+  time: 30.3
+- configuration: "mzn_sat-open_wbo-mixed-{'f_SAT_fzn_disjunctive_order_alternative':\
+    \ True, 'f_slack_channel': 'EQUALITY'}"
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jobshop_wet_by_1/jobshop_abz5.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jsswet.mzn
+  problem: jsswet
+  solution:
+    objective: 103
+    x:
+    - [0, 88, 328, 607, 706, 773, 928, 1020, 1119, 1363]
+    - [108, 180, 259, 328, 403, 497, 563, 773, 890, 1353]
+    - [314, 397, 458, 573, 638, 706, 812, 959, 1111, 1286]
+    - [246, 497, 638, 699, 798, 852, 927, 993, 1069, 1304]
+    - [0, 468, 556, 643, 754, 862, 929, 1051, 1119, 1390]
+    - [87, 186, 267, 422, 563, 663, 743, 1005, 1072, 1348]
+    - [0, 268, 556, 653, 853, 948, 1045, 1119, 1218, 1416]
+    - [88, 186, 259, 341, 392, 513, 607, 692, 754, 849]
+    - [0, 94, 341, 422, 507, 573, 802, 993, 1051, 1212]
+    - [69, 119, 186, 268, 340, 397, 493, 878, 1218, 1412]
+  status: SATISFIED
+  time: 30.52
+- {configuration: "mzn_sat-open_wbo-mixed-{'f_SAT_fzn_disjunctive_order_alternative':\
+    \ True, 'f_slack_channel': 'EQUALITY'}", data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jobshop_wet_by_1/jobshop_abz5.dzn,
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jsswet.mzn,
+  problem: jsswet, status: OPTIMAL_SOLUTION, time: 31.19}

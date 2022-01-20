@@ -1,0 +1,14 @@
+- configuration: mzn-sat-clasp-direct+order-order
+  data_file: n=08;m=08;holes={}
+  model: ../../libminizinc/thesis/benchmarks/minizinc-benchmarks/knights_circuit/knights_circuit.mzn
+  problem: knights
+  solution:
+    p: [11, 17, 18, 10, 20, 12, 22, 14, 3, 25, 5, 29, 7, 4, 21, 31, 34, 1, 2, 37,
+      6, 16, 8, 30, 35, 9, 42, 13, 23, 45, 48, 15, 27, 28, 41, 19, 47, 32, 24, 55,
+      58, 57, 26, 61, 60, 40, 64, 63, 43, 33, 36, 62, 59, 44, 38, 39, 51, 52, 49,
+      50, 46, 56, 53, 54]
+  status: SATISFIED
+  time: 3.38
+- {configuration: mzn-sat-clasp-direct+order-order, data_file: 'n=08;m=08;holes={}',
+  model: ../../libminizinc/thesis/benchmarks/minizinc-benchmarks/knights_circuit/knights_circuit.mzn,
+  problem: knights, status: SATISFIED}

@@ -1,0 +1,13 @@
+configuration: chuffed
+data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jobshop_wet_by_1/jobshop_la12.dzn
+flatIntConstraints: 147
+flatIntVars: 161
+flatTime: 0.06123
+method: minimize
+model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jsswet.mzn
+nSolutions: 1478
+objective: 6438
+paths: 0
+problem: jsswet
+status: SATISFIED
+time: 600.0543727490003

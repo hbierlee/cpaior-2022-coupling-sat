@@ -1,0 +1,2 @@
+- {configuration: picat_sat-dump, data_file: 'n=14;m=14;holes={}', model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/knights_tour/knights.mzn,
+  problem: knights, status: UNKNOWN, time: 0.12}

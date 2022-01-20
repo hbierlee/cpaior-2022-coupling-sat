@@ -1,0 +1,12 @@
+configuration: mzn-sat-glucose-direct+order-order
+data_file: n=20;m=20;holes={}
+evaluatedReifiedConstraints: 35710
+flatBoolConstraints: 2661406
+flatBoolVars: 163454
+flatTime: 132.265999
+method: satisfy
+model: ../../libminizinc/thesis/benchmarks/minizinc-benchmarks/knights_circuit/knights_circuit.mzn
+paths: 0
+problem: knights
+status: UNKNOWN
+time: 1201.2989357491024

@@ -1,0 +1,17 @@
+- configuration: chuffed
+  data_file: n=12;m=12;holes={}
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/knights_tour/knights.mzn
+  problem: knights
+  solution:
+    p: [15, 16, 13, 14, 19, 20, 17, 18, 23, 24, 21, 22, 27, 28, 5, 6, 3, 4, 9, 10,
+      7, 8, 33, 34, 2, 1, 37, 38, 39, 40, 41, 42, 43, 11, 12, 46, 51, 52, 25, 26,
+      55, 56, 29, 30, 31, 32, 57, 58, 63, 64, 61, 62, 67, 44, 65, 66, 71, 35, 36,
+      70, 75, 76, 53, 54, 79, 80, 77, 45, 59, 47, 48, 82, 50, 49, 85, 86, 87, 68,
+      69, 90, 91, 92, 60, 94, 99, 100, 73, 74, 103, 104, 101, 78, 83, 108, 72, 106,
+      111, 88, 89, 110, 115, 112, 93, 81, 95, 116, 84, 118, 134, 133, 121, 98, 127,
+      139, 140, 141, 107, 132, 96, 130, 135, 97, 109, 138, 102, 136, 137, 105, 143,
+      144, 117, 142, 123, 124, 125, 122, 114, 113, 129, 126, 131, 128, 120, 119]
+  status: SATISFIED
+  time: 0.23
+- {configuration: chuffed, data_file: 'n=12;m=12;holes={}', model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/knights_tour/knights.mzn,
+  problem: knights, status: SATISFIED, time: 0.14}

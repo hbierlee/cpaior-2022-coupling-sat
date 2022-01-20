@@ -1,0 +1,3 @@
+- {configuration: picat_sat-dump, data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_t_hard_5.dzn,
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering-control.mzn,
+  problem: orienteering, status: UNKNOWN, time: 0.12}

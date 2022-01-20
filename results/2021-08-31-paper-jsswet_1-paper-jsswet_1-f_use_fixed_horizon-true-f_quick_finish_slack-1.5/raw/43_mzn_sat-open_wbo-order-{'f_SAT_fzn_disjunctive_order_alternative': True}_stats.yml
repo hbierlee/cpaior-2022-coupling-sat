@@ -1,0 +1,27 @@
+bimanderCount: 0
+bimanderTotalAbsoluteBalance: 0
+bimanderTotalM: 0
+bimanderTotalN: 0
+bimanderTotalOffset: 0
+configuration: "mzn_sat-open_wbo-order-{'f_SAT_fzn_disjunctive_order_alternative':\
+  \ True}"
+data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jobshop_wet_by_1/jobshop_la35.dzn
+eliminatedImplications: 59699
+evaluatedHalfReifiedConstraints: 540
+flatBoolConstraints: 3310944
+flatBoolVars: 1695692
+flatIntConstraints: 82346
+flatIntVars: 82347
+flatTime: 129.643
+method: minimize
+model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jsswet.mzn
+nClauseVariables: 14246788
+nClauses: 5097588
+nSolutions: 0
+nVariables: 1416767
+paths: 0
+problem: jsswet
+processFlatZincTime: 14.5238
+solveTime: 600.3459
+status: UNKNOWN
+time: 764.300016661

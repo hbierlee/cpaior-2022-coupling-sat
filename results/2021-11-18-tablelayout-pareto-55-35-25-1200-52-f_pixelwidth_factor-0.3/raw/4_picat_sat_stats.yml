@@ -1,0 +1,13 @@
+configuration: picat_sat
+data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/data/55-35-25-1200-52/30879.dzn
+flatIntConstraints: 2111
+flatIntVars: 2719
+flatTime: 0.900277
+method: minimize
+model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+nSolutions: 11
+objective: 7739
+paths: 0
+problem: tablelayout
+status: OPTIMAL_SOLUTION
+time: 90.55500021018088

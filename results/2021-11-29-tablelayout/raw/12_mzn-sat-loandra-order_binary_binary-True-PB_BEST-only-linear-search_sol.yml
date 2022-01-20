@@ -1,0 +1,1854 @@
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 3852
+  status: SATISFIED
+  time: 1.19
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 3781
+  status: SATISFIED
+  time: 1.2
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 2420
+  status: SATISFIED
+  time: 1.22
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 2346
+  status: SATISFIED
+  time: 1.22
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 2338
+  status: SATISFIED
+  time: 1.25
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 2167
+  status: SATISFIED
+  time: 1.26
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 1954
+  status: SATISFIED
+  time: 1.27
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 1890
+  status: SATISFIED
+  time: 1.29
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 1861
+  status: SATISFIED
+  time: 1.3
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 1842
+  status: SATISFIED
+  time: 1.32
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 1823
+  status: SATISFIED
+  time: 1.34
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 1811
+  status: SATISFIED
+  time: 1.39
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 1805
+  status: SATISFIED
+  time: 1.4
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 1799
+  status: SATISFIED
+  time: 1.41
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 1786
+  status: SATISFIED
+  time: 1.46
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 1780
+  status: SATISFIED
+  time: 1.48
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 1774
+  status: SATISFIED
+  time: 1.49
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 1742
+  status: SATISFIED
+  time: 1.51
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 1726
+  status: SATISFIED
+  time: 1.52
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 1710
+  status: SATISFIED
+  time: 1.54
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 1630
+  status: SATISFIED
+  time: 1.55
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 1614
+  status: SATISFIED
+  time: 1.62
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 1613
+  status: SATISFIED
+  time: 35.87
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 1609
+  status: SATISFIED
+  time: 35.89
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 1582
+  status: SATISFIED
+  time: 35.91
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 1578
+  status: SATISFIED
+  time: 35.92
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 1570
+  status: SATISFIED
+  time: 35.93
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 1532
+  status: SATISFIED
+  time: 35.95
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 1520
+  status: SATISFIED
+  time: 35.95
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 1517
+  status: SATISFIED
+  time: 35.97
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 1509
+  status: SATISFIED
+  time: 35.99
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 1508
+  status: SATISFIED
+  time: 36.01
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 1500
+  status: SATISFIED
+  time: 36.02
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 1498
+  status: SATISFIED
+  time: 36.02
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 1489
+  status: SATISFIED
+  time: 36.04
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 1485
+  status: SATISFIED
+  time: 36.06
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 1481
+  status: SATISFIED
+  time: 36.07
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 1477
+  status: SATISFIED
+  time: 36.08
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 1473
+  status: SATISFIED
+  time: 36.12
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 1459
+  status: SATISFIED
+  time: 36.12
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 1458
+  status: SATISFIED
+  time: 55.28
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 1457
+  status: SATISFIED
+  time: 55.29
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 1456
+  status: SATISFIED
+  time: 55.31
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 1455
+  status: SATISFIED
+  time: 55.33
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 1427
+  status: SATISFIED
+  time: 55.34
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 1423
+  status: SATISFIED
+  time: 55.36
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 1413
+  status: SATISFIED
+  time: 55.38
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 1410
+  status: SATISFIED
+  time: 55.39
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 2, 1, 2, 1, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 5, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 3, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 1, 1, 11]
+    - [1, 4, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 1, 3, 1, 5]
+    - [1, 3, 1, 2, 2, 1, 6]
+    - [1, 6, 1, 2, 2, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    objective: 1409
+  status: SATISFIED
+  time: 55.42
+- configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn
+  problem: tablelayout
+  solution:
+    config:
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 2, 1, 2, 2, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 5]
+    - [1, 1, 1, 1, 1, 1, 1]
+    - [1, 1, 1, 1, 2, 1, 3]
+    - [1, 1, 1, 2, 2, 1, 3]
+    - [1, 2, 1, 2, 2, 1, 1]
+    - [1, 1, 1, 1, 1, 1, 1]
+    objective: 1409
+  status: SATISFIED
+  time: 601.3
+- {configuration: mzn-sat-loandra-order_binary_binary-True-PB_BEST-only-linear-search,
+  data_file: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/en-1250-1479-line1099.dzn,
+  model: ../../libminizinc/tests/benchmarks/minizinc-benchmarks/table-layout/TableLayout.mzn,
+  problem: tablelayout, status: SATISFIED}

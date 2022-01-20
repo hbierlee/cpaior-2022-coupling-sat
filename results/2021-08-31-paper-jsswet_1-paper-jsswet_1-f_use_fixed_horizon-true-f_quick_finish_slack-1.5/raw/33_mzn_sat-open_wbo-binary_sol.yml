@@ -1,0 +1,51 @@
+- configuration: mzn_sat-open_wbo-binary
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jobshop_wet_by_1/jobshop_la25.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jsswet.mzn
+  problem: jsswet
+  solution:
+    objective: 214
+    x:
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 824]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 987]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 1064]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  status: SATISFIED
+  time: 46.82
+- configuration: mzn_sat-open_wbo-binary
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jobshop_wet_by_1/jobshop_la25.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jsswet.mzn
+  problem: jsswet
+  solution:
+    objective: 214
+    x:
+    - [0, 14, 136, 224, 262, 338, 436, 450, 479, 824]
+    - [0, 281, 376, 504, 564, 651, 740, 783, 886, 987]
+    - [0, 5, 207, 319, 395, 447, 648, 689, 828, 1065]
+    - [0, 94, 102, 198, 217, 703, 862, 941, 984, 1058]
+    - [37, 262, 400, 479, 641, 680, 703, 929, 935, 1013]
+    - [14, 542, 630, 661, 751, 889, 984, 1009, 1056, 1116]
+    - [0, 138, 202, 280, 301, 395, 426, 496, 544, 985]
+    - [0, 86, 259, 340, 461, 776, 831, 863, 897, 1099]
+    - [332, 384, 404, 448, 505, 547, 639, 883, 962, 1091]
+    - [0, 36, 455, 512, 612, 660, 672, 760, 869, 1067]
+    - [76, 108, 171, 279, 321, 476, 795, 895, 973, 1172]
+    - [102, 228, 307, 383, 563, 644, 731, 1026, 1043, 1117]
+    - [208, 232, 343, 355, 416, 528, 571, 601, 635, 1084]
+    - [0, 44, 136, 169, 259, 390, 448, 678, 770, 1038]
+    - [129, 245, 252, 407, 510, 710, 779, 800, 1042, 1081]
+  status: SATISFIED
+  time: 46.83
+- {configuration: mzn_sat-open_wbo-binary, data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jobshop_wet_by_1/jobshop_la25.dzn,
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jsswet.mzn,
+  problem: jsswet, status: OPTIMAL_SOLUTION, time: 46.93}

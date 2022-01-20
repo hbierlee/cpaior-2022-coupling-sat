@@ -1,0 +1,13 @@
+- configuration: mzn-sat-open-wbo-binary-binary-binary
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_n_medium_2.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering.mzn
+  problem: orienteering
+  solution:
+    objective: 1053
+    x: [11, 1, 30, 20, 2, 6, 7, 3, 10, 26, 23, 5, 21, 14, 25, 16, 13, 18, 19, 17,
+      29, 22, 15, 24, 8, 4, 27, 12, 28, 9]
+  status: SATISFIED
+  time: 601.57
+- {configuration: mzn-sat-open-wbo-binary-binary-binary, data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_n_medium_2.dzn,
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering.mzn,
+  problem: orienteering, status: SATISFIED}

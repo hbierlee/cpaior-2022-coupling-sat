@@ -1,0 +1,12 @@
+configuration: mzn-sat-clasp-direct-direct
+data_file: n=20;m=20;holes={}
+evaluatedReifiedConstraints: 35710
+flatBoolConstraints: 2183589
+flatBoolVars: 161522
+flatTime: 87.5219
+method: satisfy
+model: ../../libminizinc/thesis/benchmarks/minizinc-benchmarks/knights_circuit/knights_circuit.mzn
+paths: 0
+problem: knights
+status: UNKNOWN
+time: 1201.2932707308792

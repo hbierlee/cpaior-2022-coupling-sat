@@ -1,0 +1,28 @@
+- configuration: mzn-sat-glucose-order-order
+  data_file: n=10;m=10;holes={}
+  model: ../../libminizinc/thesis/benchmarks/minizinc-benchmarks/knights_circuit/knights_circuit.mzn
+  problem: knights
+  solution:
+    p: [13, 23, 11, 25, 26, 14, 19, 16, 17, 18, 32, 24, 5, 2, 3, 4, 38, 39, 40, 8,
+      33, 1, 44, 45, 46, 47, 48, 49, 50, 49, 52, 53, 54, 55, 56, 57, 58, 59, 60, 59,
+      62, 63, 64, 65, 66, 67, 68, 69, 70, 69, 72, 73, 74, 75, 76, 77, 78, 79, 80,
+      79, 82, 83, 84, 85, 86, 87, 88, 89, 90, 89, 92, 93, 94, 95, 96, 97, 98, 99,
+      100, 99, 93, 94, 95, 96, 97, 98, 99, 100, 97, 98, 83, 84, 85, 86, 87, 88, 89,
+      90, 87, 88]
+  status: SATISFIED
+  time: 73.93
+- configuration: mzn-sat-glucose-order-order
+  data_file: n=10;m=10;holes={}
+  model: ../../libminizinc/thesis/benchmarks/minizinc-benchmarks/knights_circuit/knights_circuit.mzn
+  problem: knights
+  solution:
+    p: [13, 23, 11, 25, 26, 14, 19, 16, 17, 18, 32, 24, 5, 2, 3, 4, 38, 6, 40, 8,
+      33, 1, 35, 36, 44, 7, 46, 20, 10, 9, 12, 51, 45, 15, 27, 48, 49, 50, 58, 28,
+      22, 21, 62, 52, 37, 34, 59, 56, 30, 29, 43, 31, 41, 75, 67, 77, 69, 70, 80,
+      39, 42, 81, 82, 72, 53, 54, 88, 47, 90, 89, 63, 91, 65, 55, 94, 97, 96, 57,
+      60, 99, 93, 61, 95, 92, 64, 74, 66, 100, 68, 98, 83, 71, 85, 73, 76, 84, 78,
+      86, 87, 79]
+  status: SATISFIED
+  time: 74.02
+- {configuration: mzn-sat-glucose-order-order, data_file: 'n=10;m=10;holes={}', model: ../../libminizinc/thesis/benchmarks/minizinc-benchmarks/knights_circuit/knights_circuit.mzn,
+  problem: knights, status: SATISFIED}

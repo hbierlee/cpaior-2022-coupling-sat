@@ -1,0 +1,7 @@
+configuration: "mzn_sat-open_wbo-mixed-{'f_SAT_fzn_disjunctive_order_alternative':\
+  \ True, 'f_slack_channel': 'INEQUALITY'}"
+data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jobshop_wet_by_1/jobshop_swv13.dzn
+error: 'MiniZinc stopped with a non-zero exit code, but did not output an error message. '
+model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jsswet.mzn
+problem: jsswet
+status: ERROR

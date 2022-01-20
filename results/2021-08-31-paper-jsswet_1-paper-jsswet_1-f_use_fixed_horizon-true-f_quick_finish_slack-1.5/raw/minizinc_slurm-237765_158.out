@@ -1,0 +1,18 @@
+DEBUG:minizinc:CLIDriver:run -> command: "/home/hbierlee/Projects/libminizinc/release/minizinc --allow-multiple-assignments --version"
+DEBUG:minizinc:CLIDriver:run -> command: "/home/hbierlee/Projects/libminizinc/release/minizinc --allow-multiple-assignments --version"
+DEBUG:minizinc:CLIDriver:run -> command: "/home/hbierlee/Projects/libminizinc/release/minizinc --allow-multiple-assignments --solvers-json"
+DEBUG:minizinc:CLIDriver:run -> command: "/home/hbierlee/Projects/libminizinc/release/minizinc --allow-multiple-assignments --version"
+DEBUG:minizinc:CLIDriver:run -> command: "/home/hbierlee/Projects/libminizinc/release/minizinc --allow-multiple-assignments --solvers-json"
+DEBUG:minizinc:CLIDriver:run -> command: "/home/hbierlee/Projects/libminizinc/release/minizinc --allow-multiple-assignments --version"
+DEBUG:minizinc:CLIDriver:run -> command: "/home/hbierlee/Projects/libminizinc/release/minizinc --allow-multiple-assignments --solvers-json"
+DEBUG:minizinc:CLIDriver:run -> command: "/home/hbierlee/Projects/libminizinc/release/minizinc --allow-multiple-assignments --version"
+DEBUG:minizinc:CLIDriver:run -> command: "/home/hbierlee/Projects/libminizinc/release/minizinc --allow-multiple-assignments --solvers-json"
+DEBUG:minizinc:CLIDriver:run -> command: "/home/hbierlee/Projects/libminizinc/release/minizinc --allow-multiple-assignments --version"
+DEBUG:minizinc:CLIDriver:run -> command: "/home/hbierlee/Projects/libminizinc/release/minizinc --allow-multiple-assignments --solvers-json"
+DEBUG:asyncio:Using selector: EpollSelector
+DEBUG:minizinc:CLIDriver:run -> command: "/home/hbierlee/Projects/libminizinc/release/minizinc --allow-multiple-assignments --version"
+DEBUG:minizinc:CLIDriver:run -> command: "/home/hbierlee/Projects/libminizinc/release/minizinc --solver org.sat-group.open-wbo@2.3.2 --allow-multiple-assignments --model-interface-only /home/hbierlee/Projects/mzn-bench/instances/../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jsswet.mzn"
+DEBUG:minizinc:CLIInstance:analyse -> output fields: [('objective', <class 'numbers.Number'>), ('x', typing.List[typing.List[int]]), ('_checker', <class 'str'>)]
+DEBUG:minizinc:CLIDriver:run -> command: "/home/hbierlee/Projects/libminizinc/release/minizinc --solver org.sat-group.open-wbo@2.3.2 --allow-multiple-assignments --model-interface-only /home/hbierlee/Projects/mzn-bench/instances/../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jsswet.mzn /home/hbierlee/Projects/mzn-bench/instances/../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jobshop_wet_by_1/jobshop_la24.dzn"
+DEBUG:minizinc:CLIInstance:analyse -> output fields: [('objective', <class 'numbers.Number'>), ('x', typing.List[typing.List[int]]), ('_checker', <class 'str'>)]
+DEBUG:minizinc:CLIDriver:create_process -> program: /home/hbierlee/Projects/libminizinc/release/minizinc args: "--solver org.sat-group.open-wbo@2.3.2 --allow-multiple-assignments --output-mode json --output-time --output-objective --output-output-item --statistics --intermediate-solutions --time-limit 1200000 --intermediate-solutions --solver-time-limit 600000 /home/hbierlee/Projects/mzn-bench/instances/../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jsswet.mzn /home/hbierlee/Projects/mzn-bench/instances/../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jobshop_wet_by_1/jobshop_la24.dzn /tmp/jobs/hbierlee/237940/mzn_datarr8ny0lv.json"

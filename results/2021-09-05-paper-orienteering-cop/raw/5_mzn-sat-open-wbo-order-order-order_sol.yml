@@ -1,0 +1,23 @@
+- configuration: mzn-sat-open-wbo-order-order-order
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_medium_1.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering.mzn
+  problem: orienteering
+  solution:
+    objective: 1481
+    x: [10, 1, 9, 9, 9, 9, 2, 9, 9, 9, 9, 6, 9, 9, 9, 3, 9, 4, 9, 9, 9, 9, 9, 9, 5,
+      9, 8, 9, 9, 7]
+  status: SATISFIED
+  time: 276.75
+- configuration: mzn-sat-open-wbo-order-order-order
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_medium_1.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering.mzn
+  problem: orienteering
+  solution:
+    objective: 1481
+    x: [28, 1, 9, 19, 26, 11, 2, 17, 10, 21, 27, 6, 20, 18, 24, 3, 29, 4, 13, 15,
+      30, 23, 16, 22, 5, 14, 8, 12, 25, 7]
+  status: SATISFIED
+  time: 276.76
+- {configuration: mzn-sat-open-wbo-order-order-order, data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_medium_1.dzn,
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering.mzn,
+  problem: orienteering, status: OPTIMAL_SOLUTION, time: 276.81}

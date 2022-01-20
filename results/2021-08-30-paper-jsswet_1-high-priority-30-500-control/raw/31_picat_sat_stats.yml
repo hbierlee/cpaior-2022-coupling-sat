@@ -1,0 +1,16 @@
+configuration: picat_sat
+data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jobshop_wet_by_1/jobshop_la23.dzn
+evaluatedReifiedConstraints: 2100
+flatBoolConstraints: 1050
+flatBoolVars: 2100
+flatIntConstraints: 2281
+flatIntVars: 196
+flatTime: 0.133044
+method: minimize
+model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jsswet.mzn
+nSolutions: 9
+objective: 15390
+paths: 0
+problem: jsswet
+status: OPTIMAL_SOLUTION
+time: 330.7326891699922

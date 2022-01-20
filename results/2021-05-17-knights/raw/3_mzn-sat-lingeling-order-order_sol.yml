@@ -1,0 +1,3 @@
+- {configuration: mzn-sat-lingeling-order-order, data_file: 'n=12;m=12;holes={}',
+  model: ../../libminizinc/thesis/benchmarks/minizinc-benchmarks/knights_circuit/knights_circuit.mzn,
+  problem: knights, status: UNKNOWN}

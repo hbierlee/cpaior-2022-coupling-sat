@@ -1,0 +1,61 @@
+- configuration: mzn_sat-open_wbo-binary
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jobshop_wet_by_1/jobshop_la15.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jsswet.mzn
+  problem: jsswet
+  solution:
+    objective: 12446
+    x:
+    - [0, 0, 0, 0, 982]
+    - [0, 0, 0, 0, 960]
+    - [0, 0, 0, 0, 1022]
+    - [0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0]
+    - [0, 0, 0, 0, 0]
+  status: SATISFIED
+  time: 603.12
+- configuration: mzn_sat-open_wbo-binary
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jobshop_wet_by_1/jobshop_la15.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jsswet.mzn
+  problem: jsswet
+  solution:
+    objective: 12446
+    x:
+    - [31, 271, 340, 623, 982]
+    - [47, 208, 511, 626, 960]
+    - [583, 768, 848, 918, 1022]
+    - [1120, 1141, 1279, 1396, 1440]
+    - [127, 371, 423, 486, 512]
+    - [39, 161, 222, 307, 384]
+    - [867, 973, 1091, 1211, 1248]
+    - [655, 792, 864, 941, 1011]
+    - [63, 128, 256, 469, 736]
+    - [511, 735, 1207, 1402, 1445]
+    - [326, 470, 541, 549, 704]
+    - [1055, 1152, 1207, 1304, 1316]
+    - [627, 655, 993, 1304, 1440]
+    - [256, 352, 600, 1187, 1344]
+    - [127, 567, 707, 763, 1268]
+    - [775, 952, 1056, 1099, 1168]
+    - [559, 833, 919, 931, 1108]
+    - [439, 829, 1141, 1266, 1344]
+    - [231, 643, 728, 850, 1088]
+    - [39, 215, 339, 411, 510]
+  status: SATISFIED
+  time: 603.15
+- {configuration: mzn_sat-open_wbo-binary, data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jobshop_wet_by_1/jobshop_la15.dzn,
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jsswet.mzn,
+  problem: jsswet, status: SATISFIED}

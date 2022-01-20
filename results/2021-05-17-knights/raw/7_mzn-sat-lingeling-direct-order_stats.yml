@@ -1,0 +1,12 @@
+configuration: mzn-sat-lingeling-direct-order
+data_file: n=20;m=20;holes={}
+evaluatedReifiedConstraints: 35710
+flatBoolConstraints: 2652496
+flatBoolVars: 161125
+flatTime: 121.833
+method: satisfy
+model: ../../libminizinc/thesis/benchmarks/minizinc-benchmarks/knights_circuit/knights_circuit.mzn
+paths: 0
+problem: knights
+status: UNKNOWN
+time: 1201.290789423976

@@ -1,0 +1,44 @@
+- configuration: "mzn_sat-open_wbo-mixed-{'f_SAT_fzn_disjunctive_order_alternative':\
+    \ True, 'f_slack_channel': 'DOUBLE_INEQUALITY'}"
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jobshop_wet_by_1/jobshop_orb08.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jsswet.mzn
+  problem: jsswet
+  solution:
+    objective: 0
+    x:
+    - [0, 55, 129, 174, 197, 273, 292, 310, 371, 604]
+    - [0, 63, 106, 157, 175, 217, 228, 257, 309, 338]
+    - [0, 88, 119, 166, 176, 238, 298, 356, 385, 437]
+    - [0, 16, 87, 142, 197, 206, 255, 338, 392, 399]
+    - [0, 7, 48, 140, 234, 280, 359, 393, 431, 439]
+    - [0, 25, 30, 119, 213, 227, 321, 341, 364, 408]
+    - [0, 24, 45, 92, 132, 226, 297, 386, 461, 558]
+    - [0, 5, 12, 86, 114, 186, 247, 256, 309, 341]
+    - [0, 34, 86, 123, 129, 223, 229, 285, 326, 331]
+    - [0, 77, 151, 233, 243, 272, 287, 338, 403, 440]
+  status: SATISFIED
+  time: 28.26
+- configuration: "mzn_sat-open_wbo-mixed-{'f_SAT_fzn_disjunctive_order_alternative':\
+    \ True, 'f_slack_channel': 'DOUBLE_INEQUALITY'}"
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jobshop_wet_by_1/jobshop_orb08.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jsswet.mzn
+  problem: jsswet
+  solution:
+    objective: 0
+    x:
+    - [50, 120, 194, 239, 344, 420, 439, 467, 557, 1075]
+    - [476, 606, 668, 719, 741, 799, 810, 839, 892, 923]
+    - [239, 337, 370, 420, 566, 628, 710, 770, 862, 976]
+    - [6, 49, 125, 197, 287, 408, 457, 540, 594, 601]
+    - [194, 209, 252, 390, 534, 613, 805, 852, 914, 964]
+    - [0, 36, 48, 140, 331, 345, 444, 469, 492, 893]
+    - [25, 102, 137, 250, 296, 540, 671, 777, 940, 1052]
+    - [368, 373, 453, 583, 628, 700, 761, 770, 943, 993]
+    - [0, 34, 103, 187, 243, 339, 352, 423, 464, 469]
+    - [290, 380, 484, 566, 576, 605, 620, 675, 740, 843]
+  status: SATISFIED
+  time: 28.43
+- {configuration: "mzn_sat-open_wbo-mixed-{'f_SAT_fzn_disjunctive_order_alternative':\
+    \ True, 'f_slack_channel': 'DOUBLE_INEQUALITY'}", data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jobshop_wet_by_1/jobshop_orb08.dzn,
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/jsswet/jsswet.mzn,
+  problem: jsswet, status: OPTIMAL_SOLUTION, time: 29.09}

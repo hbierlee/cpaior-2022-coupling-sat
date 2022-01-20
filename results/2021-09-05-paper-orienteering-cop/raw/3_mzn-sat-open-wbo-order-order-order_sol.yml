@@ -1,0 +1,12 @@
+- configuration: mzn-sat-open-wbo-order-order-order
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_easy_4.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering.mzn
+  problem: orienteering
+  solution:
+    objective: 545
+    x: [5, 1, 8, 9, 13, 15, 14, 7, 10, 3, 2, 12, 6, 11, 4]
+  status: SATISFIED
+  time: 5.65
+- {configuration: mzn-sat-open-wbo-order-order-order, data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_easy_4.dzn,
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering.mzn,
+  problem: orienteering, status: OPTIMAL_SOLUTION, time: 5.65}

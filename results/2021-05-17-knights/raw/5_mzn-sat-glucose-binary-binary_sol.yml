@@ -1,0 +1,3 @@
+- {configuration: mzn-sat-glucose-binary-binary, data_file: 'n=16;m=16;holes={}',
+  model: ../../libminizinc/thesis/benchmarks/minizinc-benchmarks/knights_circuit/knights_circuit.mzn,
+  problem: knights, status: UNKNOWN, time: 1200.38}

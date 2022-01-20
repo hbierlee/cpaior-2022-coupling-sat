@@ -1,0 +1,23 @@
+- configuration: mzn-sat-open-wbo-direct-order-direct
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_n_medium_2.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering.mzn
+  problem: orienteering
+  solution:
+    objective: 1053
+    x: [11, 1, 30, 1, 1, 6, 7, 1, 1, 1, 1, 1, 1, 14, 1, 16, 1, 18, 19, 1, 1, 22, 1,
+      24, 1, 1, 27, 1, 1, 1]
+  status: SATISFIED
+  time: 606.87
+- configuration: mzn-sat-open-wbo-direct-order-direct
+  data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_n_medium_2.dzn
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering.mzn
+  problem: orienteering
+  solution:
+    objective: 1053
+    x: [11, 1, 30, 20, 2, 6, 7, 3, 10, 26, 23, 5, 21, 14, 25, 16, 13, 18, 19, 17,
+      29, 22, 15, 24, 8, 4, 27, 12, 28, 9]
+  status: SATISFIED
+  time: 606.93
+- {configuration: mzn-sat-open-wbo-direct-order-direct, data_file: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering_n_medium_2.dzn,
+  model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/orienteering/orienteering.mzn,
+  problem: orienteering, status: SATISFIED}

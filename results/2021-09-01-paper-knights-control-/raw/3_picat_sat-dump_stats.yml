@@ -1,0 +1,12 @@
+configuration: picat_sat-dump
+data_file: n=12;m=12;holes={}
+flatIntConstraints: 1
+flatIntVars: 142
+flatTime: 0.064474
+method: satisfy
+model: ../../libminizinc/tests/benchmarks/mznsat-framework-paper/knights_tour/knights.mzn
+nSolutions: 0
+paths: 0
+problem: knights
+status: UNKNOWN
+time: 0.14233852794859558

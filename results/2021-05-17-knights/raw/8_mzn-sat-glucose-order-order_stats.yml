@@ -1,0 +1,6 @@
+configuration: mzn-sat-glucose-order-order
+data_file: n=22;m=22;holes={}
+error: 'MiniZinc stopped with a non-zero exit code, but did not output an error message. '
+model: ../../libminizinc/thesis/benchmarks/minizinc-benchmarks/knights_circuit/knights_circuit.mzn
+problem: knights
+status: ERROR
