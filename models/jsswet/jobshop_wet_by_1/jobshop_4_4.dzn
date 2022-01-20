@@ -1,0 +1,7 @@
+n_jobs = 4;
+n_machines = 4;
+job_task_machine = array2d(jobs, tasks, [0, 1, 1, 0]);
+job_task_duration = array2d(jobs, tasks, [2, 5, 2, 5]);
+deadline = array2d(jobs, 1..3, [5, 24, 24, 10, 2, 2]);
+fixed_horizon = 0..15;
+optimal=0;
