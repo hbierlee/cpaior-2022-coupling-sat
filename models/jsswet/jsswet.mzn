@@ -4,6 +4,17 @@
 
 predicate picat_cumulative(array[int] of var int: s, array[int] of var int: d, array[int] of var int: r, var int: b);
 include "../../sat-declarations.mzn";
+
+
+% % for checking jsswet-priority results, uncomment:
+% f_high_priority_penalty=30;
+% f_high_priority_hard_deadline=500;
+
+% for checking jsswet-slack results, uncomment:
+% f_use_fixed_horizon=true;
+% f_quick_finish_slack=2.5;
+
+
 opt bool: f_mzn_sat;
 bool: mzn_sat = f_mzn_sat default true;
 
