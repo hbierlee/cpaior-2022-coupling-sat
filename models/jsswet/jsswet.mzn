@@ -3,7 +3,7 @@
     % The included instances are converted from regular (non-WET, that is, makespan minimization) jobshop instances (https://github.com/MiniZinc/minizinc-benchmarks/tree/master/jobshop), without deadlines and earliness/tardiness coefficients.
 
 predicate picat_cumulative(array[int] of var int: s, array[int] of var int: d, array[int] of var int: r, var int: b);
-include "../../sat-declarations.mzn";
+% include "../sat-declarations.mzn";
 
 
 % % for checking jsswet-priority results, uncomment:

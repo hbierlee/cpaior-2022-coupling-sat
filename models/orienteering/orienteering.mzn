@@ -1,6 +1,6 @@
 % Orienteering
     % Note: we sometimes use annotate_sat_encoding instead of direct annotations (::binary_encoded), so that we can easily change the configuration via data parameters in experiments
-include "../../sat-declarations.mzn";
+include "../sat-declarations.mzn";
 include "subcircuit.mzn";
 opt bool: f_mzn_sat;
 bool: mzn_sat = f_mzn_sat default true;

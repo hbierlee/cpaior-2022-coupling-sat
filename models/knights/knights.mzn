@@ -3,7 +3,7 @@
 % Original knights.mzn by Ralph Becket
     % Note: we sometimes use annotate_sat_encoding instead of direct annotations (::binary_encoded), so that we can easily change the configuration via data parameters in experiments
 
-include "../../sat-declarations.mzn";
+include "../sat-declarations.mzn";
 include "circuit.mzn";
 
 opt bool: f_mzn_sat;
