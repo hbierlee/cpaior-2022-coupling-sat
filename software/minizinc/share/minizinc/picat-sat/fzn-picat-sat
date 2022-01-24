@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+exec ../minizinc/share/minizinc/picat-sat/Picat/picat -path ../minizinc/share/minizinc/picat-sat/ fzn_picat_sat.pi "$@"
+

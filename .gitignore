@@ -1,0 +1,9 @@
+software/minizinc/release/
+software/minizinc/build/
+software/mzn-bench/venv
+software/minizinc/share/minizinc/open-wbo/open-wbo_release
+
+__pycache__
+.eggs
+mzn_bench
+*.egg-info

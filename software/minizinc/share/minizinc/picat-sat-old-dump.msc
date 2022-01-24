@@ -1,0 +1,15 @@
+{
+  "id": "picat-sat-old-dump",
+  "name": "picat-sat-old-dump",
+  "description": "Picat interface between FZN and SAT (dumps DIMACS, doesn't solve)",
+  "version": "31",
+  "executable": "/home/hbierlee/Projects/libminizinc/thesis/solvers/picat-sat/fzn-picat-sat-dump",
+  "tags": ["cp","int", "float", "set", "restart"],
+  "stdFlags": ["-n","-s","-p","-r","-f"],
+  "supportsMzn": false,
+  "supportsFzn": true,
+  "needsSolns2Out": true,
+  "needsMznExecutable": false,
+  "needsStdlibDir": false,
+  "isGUIApplication": false
+}

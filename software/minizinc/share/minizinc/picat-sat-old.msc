@@ -1,0 +1,15 @@
+{
+  "id": "picat-sat-old",
+  "name": "picat-sat-old",
+  "description": "Picat interface between FZN and SAT",
+  "version": "31",
+  "executable": "/home/hbierlee/Projects/libminizinc/thesis/solvers/picat-sat/fzn-picat-sat",
+  "tags": ["cp","int", "float", "set", "restart"],
+  "stdFlags": ["-a", "-n","-p","-r","-f"],
+  "supportsMzn": false,
+  "supportsFzn": true,
+  "needsSolns2Out": true,
+  "needsMznExecutable": false,
+  "needsStdlibDir": false,
+  "isGUIApplication": false
+}

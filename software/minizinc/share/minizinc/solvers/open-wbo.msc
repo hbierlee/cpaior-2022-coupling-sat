@@ -1,0 +1,16 @@
+{
+  "id": "org.sat-group.open-wbo",
+  "name": "Open WBO",
+  "description": "",
+  "version": "2.3.2",
+  "mznlib": "-Gsat",
+  "executable": "../open-wbo/open-wbo_release",
+  "tags": ["sat", "bool"],
+  "stdFlags": ["-a", "-f", "-s", "-t", "-i"],
+  "extraFlags": [],
+  "inputType": "WDIMACS",
+  "needsSolns2Out": true,
+  "needsMznExecutable": false,
+  "needsStdlibDir": false,
+  "isGUIApplication": false
+}
